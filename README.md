@@ -13,7 +13,7 @@ Blog Engine is a Rust-based web application that aggregates and displays article
 **Cargo:** Rust's package manager, included with Rust.
 ### Installation
 Clone the Repository:
-git clone https://github.com/yourusername/BlogProject.git 
+git clone https://github.com/yourusername/BlogProject.git <br>
 cd BlogProject
 
 ### 2 Install Dependencies:
