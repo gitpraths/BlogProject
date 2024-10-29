@@ -9,7 +9,7 @@ Blog Engine is a Rust-based web application that aggregates and displays article
 **Responsive Design:** Monochrome clours with design that can be viewed on any device efficiently.
 
 ## Requirements
-**Rust:** Ensure you have Rust installed. `Install Rust`
+**Rust:** Ensure you have Rust installed. `Install Rust`<br>
 **Cargo:** Rust's package manager, included with Rust.
 ### Installation
 Clone the Repository:
