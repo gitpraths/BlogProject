@@ -39,6 +39,6 @@ Contributions are highly welcome! Feel free to fork the repository and create a 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 ## Acknowledgments
-**Rust Programming Language:** The systems programming language empowering this project.
-**Actix-web Framework:** The web framework for handling HTTP requests in Rust.
-**NewsAPI:** Providing access to a wide range of news articles.
+**Rust Programming Language:** The systems programming language empowering this project. <br>
+**Actix-web Framework:** The web framework for handling HTTP requests in Rust. <br>
+**NewsAPI:** Providing access to a wide range of news articles. <br>
